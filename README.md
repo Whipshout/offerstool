@@ -76,6 +76,6 @@
 - Rust reads files about **ten times** faster<br>
 - Rust writes files about **three times** faster<br>
 - Most of the time is spent **searching** common user_ids and formatting report data<br>
-- Rust is **almost six times faster** than js at manipulating data in this case<br>
+- Rust is about **five times faster** than js at manipulating data in this case<br>
 - **No sorting or search algorithms** have been used, only what the language brings<br>
 <br><br>
