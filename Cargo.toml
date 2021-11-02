@@ -1,0 +1,14 @@
+[package]
+name = "offerstool"
+version = "1.0.0"
+authors = ["Eduardo Sánchez <whipshout@gmail.com>"]
+description = "Templated offers tool"
+edition = "2021"
+
+[lib]
+name = "offerstool"
+path = "src/lib/mod.rs"
+
+[dependencies]
+text-colorizer = "1.0.0"
+clap = "2.33.3"
