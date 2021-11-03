@@ -49,8 +49,8 @@
 
 ### Perks
 1. It is intended to be used by running the code, **not cli tool**.
-2. **It does not remove duplicate** user_ids in files to make the report.
-3. In case an error occurs (**something very likely because it is Javascript**), the error is not handle and the app just shut down.
+2. **Remove duplicate** user_ids in files to make the report.
+3. In case an error occurs (**something very likely because it is Javascript**), the error is handle with a try-catch block.
 4. **27** code lines (core).
 <br><br>
 
