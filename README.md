@@ -30,15 +30,15 @@
 
 | Action | Seconds | Milliseconds |
 | :---: | :---: | :---: |
-| Time reading file mixpanel_dump.csv | 0.0013889s | 1.3889ms |
-| Time reading file database_dump.csv | 0.0026363s | 2.6363ms |
-| Time formatting file | 0.0106647s | 10.6647ms |
-| Time writing file output.csv | 0.001436s | 1.436ms |
-| Total time used | 0.0253711s | 25.3711ms |
+| Time reading file mixpanel_dump.csv | 0.0005537s | 0.5537ms |
+| Time reading file database_dump.csv | 0.0013122s | 1.3122ms |
+| Time formatting file | 0.010362s | 10.362ms |
+| Time writing file output.csv | 0.0014856s | 1.4856ms |
+| Total time used | 0.0226619s | 22.6619ms |
 
 <br>
 
-![Performance](./comparative/rust_performance.png)
+![Performance](./comparative/rust_stats.png)
 
 <br>
 
@@ -64,7 +64,7 @@
 
 <br>
 
-![Performance](./comparative/js_performance.PNG)
+![Performance](./comparative/js_stats.PNG)
 
 <br>
 
